@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "95067D06DC75E2FAD852B8CEE979A4A9A7F5F8CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "95067D06DC75E2FAD852B8CEE979A4A9A7F5F8CA" : 0,
+    "4B95506D11CDD3909029868947701C575B43EE10" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "302E2CC6-7D24-4C1F-B4AF-9E15DEC2084B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "95067D06DC75E2FAD852B8CEE979A4A9A7F5F8CA" : "%E5%9B%BE%E7%89%87%E7%BC%96%E8%BE%91%E6%88%AA%E5%8F%96\/",
+    "4B95506D11CDD3909029868947701C575B43EE10" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "图片编辑截取",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "图片编辑截取.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:BestRivenLG\/ZLGImageCrope.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B95506D11CDD3909029868947701C575B43EE10"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:BestRivenLG\/ZLGImageCrope.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95067D06DC75E2FAD852B8CEE979A4A9A7F5F8CA"
+    }
+  ]
+}
